@@ -1,0 +1,25 @@
+.apexcharts-canvas {
+  /**
+  * Tooltip: group
+  */
+  .apexcharts-tooltip-series-group {
+    padding: 4px 12px;
+  }
+  .apexcharts-tooltip-marker {
+    margin-right: 8px;
+  }
+  /**
+  * Legend
+  */
+  .apexcharts-legend {
+    padding: 0;
+  }
+  .apexcharts-legend-marker {
+    margin-right: 6px;
+  }
+  .apexcharts-legend-text {
+    margin-left: 0;
+    padding-left: 0;
+    line-height: 18px;
+  }
+}
